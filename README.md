@@ -1,3 +1,3 @@
-# Data-Analysis-with-Python
+# Data-Analysis
 ## Editing the file
 It's a markdown file in this repository.
